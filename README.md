@@ -1,1 +1,1 @@
-# Steam_bot
+This bot allows to play very well at any time of the day.
